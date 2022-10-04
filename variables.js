@@ -6,7 +6,7 @@ let myName = "Josh Febbie"
 //////////////////PROBLEM 2////////////////////
 /* Create a variable called 'faveNum' with a value that is your favorite number. */
 
-let faveNum = 6
+let faveNum = 13
 
 //////////////////PROBLEM 3////////////////////
 /* Create a variable called 'lovesCode' and assign it a boolean value. */
